@@ -71,7 +71,7 @@ ul {
 
 #image {
     max-width: 400px;
-    height: auto;
+    height: 100%;
 }
 
 button {
@@ -111,7 +111,7 @@ button {
 .item-img {
     width: 200px;
     height: 200px;
-    border: solid;
+    border: 3px solid;
     border-color: rgb(55, 93, 204);
     border-radius: 20px;
 }
@@ -152,6 +152,7 @@ button {
     padding: 50px 50px;
     background-color: #3882F6;
     color: white;
+    border-radius: 10px;
 }
 
 .foot-main {
